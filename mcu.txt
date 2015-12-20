@@ -3,3 +3,10 @@ versao 1:
 mcu_init();
 
 lcd_init();
+
+
+versao 2:
+
+usb();
+
+serial();
