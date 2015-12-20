@@ -10,3 +10,10 @@ versao 2:
 usb();
 
 serial();
+
+
+versao 3:
+
+wifi();
+
+rtc();
